@@ -1,0 +1,23 @@
+#Front{
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+fieldset{
+    margin-bottom: 10px;
+}
+legend{
+    border: solid 1px black;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+body{
+    background: url(https://marketplace.canva.com/EAEKqa_fvcM/1/0/1600w/canva-rosa-azul-pastel-arte-l%C3%ADquido-tendencia-fondo-zoom-MNKLP6Imvd4.jpg);
+    background-size: 100%;
+}
+#fotografia{
+    margin: 5px;
+    border: solid 3px black;
+}
